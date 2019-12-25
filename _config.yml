@@ -42,6 +42,7 @@ remote_theme: daviddarnes/alembic
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
 # Site navigation
 navigation_header:
